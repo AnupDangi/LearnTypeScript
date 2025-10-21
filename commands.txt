@@ -1,0 +1,7 @@
+ts-node filename.ts  - directly into terminal
+
+tsc filename.ts -compile the ts into js file code
+
+tsc --init -- intialize the the tsconfig.json 
+here you can change or manipulate the settings
+for typesafety ,emit compiled files
